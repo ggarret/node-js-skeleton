@@ -5,7 +5,7 @@
     var express     = require('express');
     var config      = require('./config/config');
     var middlewares = require('./middlewares');
-    var routes      = require('./config/routes');
+    var routes      = require('./config');
     var path        = require('path');  
 
 
