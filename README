@@ -1,0 +1,8 @@
+# node-js-skeleton
+
+Skeleton of a project node for a quick start of an API development
+
+@todo
+1) add db
+2) add session
+3) add templating engine
